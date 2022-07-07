@@ -27,6 +27,6 @@
   </dependencies>
 	
   <build>
-    <finalName>welcome</finalName>
+    <finalName>devops</finalName>
   </build>
 </project>
